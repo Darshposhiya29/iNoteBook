@@ -3,7 +3,7 @@ import React from 'react'
 export const About = () => {
     return (
         <div>
-            This is About
+            This is About I will Update it later
         </div>
     )
 }
