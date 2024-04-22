@@ -11,7 +11,7 @@
 }
 
 .form-control {
-    background-color: beige;
+    background-color: rgb(255, 255, 255);
     width: 100%;
     padding: 8px;
     margin-top: 5px;
@@ -34,5 +34,5 @@
 }
 
 body{
-    background-color: rgb(170, 60, 60);
+    background-color: rgb(147, 208, 212);
 }
